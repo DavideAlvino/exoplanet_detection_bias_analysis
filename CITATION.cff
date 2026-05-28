@@ -1,0 +1,14 @@
+cff-version: 1.2.0
+message: "If you use or adapt this project, please cite it using this metadata."
+title: "Exoplanet Discovery Biases"
+authors:
+  - name: "Davide Alvino"
+date-released: "2026-05-28"
+license: "MIT"
+abstract: "Statistical analysis of observational biases in exoplanet discovery methods using data from the NASA Exoplanet Archive."
+keywords:
+  - exoplanets
+  - observational-bias
+  - NASA Exoplanet Archive
+  - statistics
+  - data-analysis
